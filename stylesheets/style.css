@@ -1,0 +1,14 @@
+.zoom{
+	margin-top: 40px; 
+}
+.container{
+	margin-top: 70px;
+}
+.drawingBoard div{
+	margin-top: 30px;
+	margin-left: 70px;
+}
+.pan-input, .zoom-input{
+	width:30px;
+	margin-left:10px;
+}
